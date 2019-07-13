@@ -1,3 +1,4 @@
+turn right and go up the stairs and stand at the top.
 (ROOT
   (S
     (VP

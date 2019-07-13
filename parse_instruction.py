@@ -14,6 +14,7 @@ jars = (
 text = "turn right and go up the stairs and stand at the top."
 #text = "Walk out of the closet and into the hallway. Walk through the hallway entrance on the left. Stop just inside the entryway."
 #text = "Turn, putting the exit of the building on your left. Walk to the end of the entrance way and turn left. Travel across the kitchen area with the counter and chairs on your right. Continue straight until you reach the dining room. Enter the room and stop and wait one meter from the closest end of the long dining table."
+print(text)
 with CoreNLPServer(*jars):
 
     parser = CoreNLPParser()

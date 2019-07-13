@@ -1,3 +1,4 @@
+Walk out of the closet and into the hallway. Walk through the hallway entrance on the left. Stop just inside the entryway.
 (ROOT
   (S
     (VP

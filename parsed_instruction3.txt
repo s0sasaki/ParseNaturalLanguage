@@ -1,3 +1,4 @@
+Turn, putting the exit of the building on your left. Walk to the end of the entrance way and turn left. Travel across the kitchen area with the counter and chairs on your right. Continue straight until you reach the dining room. Enter the room and stop and wait one meter from the closest end of the long dining table.
 (ROOT
   (S
     (VP
